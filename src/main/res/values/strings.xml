@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mind Maths</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="about">ABOUT</string>
+    <string name="back">BACK</string>
+    <string name="start">START</string>
+    <string name="wrong_answer">WRONG</string>
+    <string name="correct_answer">CORRECT</string>
+    <string name="results">results</string>
+    <string name="out_of">Out Of</string>
+    <string name="student_name">K.R.H Ganewattha</string>
+    <string name="student_Id">20191183</string>
+    <string name="about_text">I confirm that I understand what plagiarism is and have read and
+                                understood the section on Assessment Offences in the Essential
+                                Information for Students. The work that I have submitted is
+                                entirely my own. Any work from other authors is duly referenced
+                                and acknowledged.
+    </string>
+
+</resources>
